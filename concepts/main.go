@@ -7,4 +7,5 @@ import (
 func main() {
 	fundamentals.AgeChecker()
 	fundamentals.SimpleCounter()
+	fundamentals.StudentMarks()
 }
